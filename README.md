@@ -33,6 +33,18 @@ Este repositório contém projetos simples em .NET 8.
 
 >"Filas: quando a ordem de chegada é importante."
 
+### 4. TerminalHistorico com Stack<T>
+📁 Pasta: `TerminalHistorico`
+- Utiliza `System.Collections.Generic.Stack<T>`
+- Implementa um histórico de comandos com operações de adicionar, desfazer e listar comandos
+- Ideal para entender o conceito de LIFO (Last In, First Out)
+- Permite praticar o uso de pilhas em C#
+- Exemplo de uso: simula um terminal onde os últimos comandos executados podem ser desfeitos.
+
+- >"Pilhas: quando o último a entrar é o primeiro a ser sair."
+  
+
+
 
 ## Como executar
 
