@@ -52,9 +52,9 @@ Este repositório contém projetos simples em .NET 8.
 - Exemplo de uso: simula uma playlist onde as músicas podem ser adicionadas, removidas e listadas.
 - >"Arrays: quando você precisa de uma coleção de tamanho fixo."
   > "Arrays são úteis quando você sabe exatamente quantos elementos terá e não precisa de flexibilidade."
-> "Arrays são a base de muitas outras estruturas de dados."
-> "Arrays são rápidos para acessar, mas lentos para redimensionar."
-> "Arrays são a escolha certa quando o desempenho é crítico e o tamanho é conhecido."
+  > "Arrays são a base de muitas outras estruturas de dados."
+  > "Arrays são rápidos para acessar, mas lentos para redimensionar."
+  > "Arrays são a escolha certa quando o desempenho é crítico e o tamanho é conhecido."
 
 
 ## Como executar
