@@ -43,7 +43,18 @@ Este repositório contém projetos simples em .NET 8.
 
 - >"Pilhas: quando o último a entrar é o primeiro a ser sair."
   
-
+### 5. `PlaylistArray` – Usando `Array`
+📁 Pasta: `PlaylistArray`
+- Utiliza `System`
+- Implementa uma playlist de músicas com operações de adicionar, remover e listar músicas
+- Ideal para entender o uso básico de arrays em C#
+- Permite praticar o uso de arrays para armazenar coleções de dados
+- Exemplo de uso: simula uma playlist onde as músicas podem ser adicionadas, removidas e listadas.
+- >"Arrays: quando você precisa de uma coleção de tamanho fixo."
+  > "Arrays são úteis quando você sabe exatamente quantos elementos terá e não precisa de flexibilidade."
+> "Arrays são a base de muitas outras estruturas de dados."
+> "Arrays são rápidos para acessar, mas lentos para redimensionar."
+> "Arrays são a escolha certa quando o desempenho é crítico e o tamanho é conhecido."
 
 
 ## Como executar

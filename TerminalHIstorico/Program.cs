@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine("Praticando a estrutura de dados do tipo Stack (Pilja)");
+Console.WriteLine("Praticando a estrutura de dados do tipo Stack (Pilha)");
 
 Stack<string> historicoDeComandos = new Stack<string>();
 while (true)
