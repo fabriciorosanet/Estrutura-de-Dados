@@ -56,6 +56,14 @@ Este repositório contém projetos simples em .NET 8.
   > "Arrays são rápidos para acessar, mas lentos para redimensionar."
   > "Arrays são a escolha certa quando o desempenho é crítico e o tamanho é conhecido."
 
+### 6. `RedeDeAmizadesComGrafo` – Usando `Dictionary<string, List<string>>`
+📁 Pasta: `RedeDeAmizadesComGrafo`
+- Utiliza `System.Collections.Generic`
+- Implementa uma rede de amizades usando um grafo
+- Permite adicionar, remover e listar amigos
+- Ideal para entender como funcionam os grafos em C#
+- Exemplo de uso: simula uma rede social onde os usuários podem adicionar e conectar amigos, e listar todas as conexoes.
+- >"Grafos: quando você precisa representar conexões complexas entre elementos."
 
 ## Como executar
 
