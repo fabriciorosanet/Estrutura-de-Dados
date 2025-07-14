@@ -65,6 +65,17 @@ Este repositório contém projetos simples em .NET 8.
 - Exemplo de uso: simula uma rede social onde os usuários podem adicionar e conectar amigos, e listar todas as conexoes.
 - >"Grafos: quando você precisa representar conexões complexas entre elementos."
 
+### 7. `ListaLigadaTarefas` – Usando `LinkedList<T>`
+📁 Pasta: `ListaLigadaTarefas`
+- Utiliza `System.Collections.Generic.LinkedList<T>`
+- Implementa uma lista ligada de tarefas com operações de adicionar, remover e listar tarefas
+- Ideal para entender o conceito de listas ligadas em C#
+- Permite praticar o uso de listas ligadas para armazenar coleções de dados
+> “Listas ligadas são como trilhas de dominós: cada peça aponta para a próxima.”  
+> — Inspirado no conceito de listas encadeadas
+
+
+
 ## Como executar
 
 1. Instale o [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download)
